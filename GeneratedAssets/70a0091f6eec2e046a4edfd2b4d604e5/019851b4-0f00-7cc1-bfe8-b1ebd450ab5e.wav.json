@@ -1,0 +1,13 @@
+{
+    "asset": "70a0091f6eec2e046a4edfd2b4d604e5",
+    "fileName": "019851b4-0f00-7cc1-bfe8-b1ebd450ab5e.wav",
+    "prompt": "Generate a soft ambient sound of a glowing magical tree gently humming with energy, emitting a faint bioluminescent pulse. The sound should include faint sparkles, a light breeze, and ethereal tones to evoke a calming and mystical atmosphere.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "a812a7f1668c309e7269844b47e02c26",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}
